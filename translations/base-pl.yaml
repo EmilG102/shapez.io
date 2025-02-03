@@ -592,8 +592,8 @@ buildings:
             name: Obracacz (Przeciwny kierunek)
             description: Obraca kształt przeciwnie do ruchu wskazówek zegara o 90 stopni.
         rotate180:
-            name: Rotate (180)
-            description: Rotates shapes by 180 degrees.
+            name: Obracacz (180°)
+            description: Obraca kształt o 180 stopni.
     stacker:
         default:
             name: Sklejacz
